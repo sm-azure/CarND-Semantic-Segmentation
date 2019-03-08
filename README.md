@@ -22,7 +22,7 @@
   <br>  
 </p>
 
-
+### From the readme of the project ###
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
