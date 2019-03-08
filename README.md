@@ -1,4 +1,28 @@
 # Semantic Segmentation
+
+### Sample Results
+<p align="center">
+  <img src="runs/1552032654.323603/um_000003.png" width="400">
+  <br>  
+</p>
+<p align="center">
+  <img src="runs/1552032654.323603/um_000005.png" width="400">
+  <br>  
+</p>
+<p align="center">
+  <img src="runs/1552032654.323603/um_000010.png" width="400">
+  <br>  
+</p>
+<p align="center">
+  <img src="runs/1552032654.323603/um_000012.png" width="400">
+  <br>  
+</p>
+<p align="center">
+  <img src="runs/1552032654.323603/um_000016.png" width="400">
+  <br>  
+</p>
+
+
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
